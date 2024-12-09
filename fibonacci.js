@@ -18,5 +18,5 @@ function fibonacciElement(num) {
  return fibonacciElement(num - 1) + fibonacciElement(num - 2);
 }
 
-console.log(fibonacciSequence(4));
+console.log(fibonacciSequence(21));
 console.log(fibonacciElement(4));
